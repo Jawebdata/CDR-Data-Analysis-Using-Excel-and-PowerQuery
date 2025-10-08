@@ -1,55 +1,74 @@
-📞 CDR Data Analysis using Excel & Power Query
-🔍 Project Overview
+# 📞 CDR Data Analysis using Excel & Power Query  
 
-This project demonstrates a real-world telecom data cleaning and analysis process using Microsoft Excel and Power Query.
-The dataset (dummy version) represents Call Detail Records (CDR) used to identify:
+### 🔍 Project Overview  
+This project demonstrates a **real-world telecom data cleaning and analysis process** using **Microsoft Excel and Power Query**.  
+The dataset (dummy version) represents **Call Detail Records (CDR)** that help identify:  
+- Who communicated the most  
+- Who talked with whom  
+- Which cell location was most active  
 
-Who communicated with whom
+---
 
-Who talked the most
+### 🧠 Objectives  
+- Clean and transform messy raw data  
+- Remove errors, blanks, and duplicates  
+- Analyze call frequency and top communicators  
+- Track communication patterns by cell location  
 
-Call patterns based on cell location
+---
 
-🧠 Objectives
+### ⚙️ Tools & Techniques Used  
+- **Microsoft Excel**  
+- **Power Query (ETL process)**  
+- **Data Cleaning & Transformation**  
+- **Analytical Thinking & Problem Solving**  
 
-Clean and transform messy raw data
+---
 
-Remove errors, blanks, and duplicates
+### 📊 Key Insights  
+✅ Identified the **top communicator** in the dataset  
+✅ Mapped **call connections by cell location**  
+✅ Converted raw telecom data into a structured, meaningful report  
 
-Analyze communication frequency
+---
 
-Find top connections & most active cell locations
+### 📂 Project Links  
 
-⚙️ Tools & Techniques
+| Type | Description | Link |
+|------|--------------|------|
+| 🎥 **Project Video** | Watch the full process and analysis walkthrough | [CDR Job Query Video](https://github.com/Jawebdata/CDR-Data-Analysis-Using-Excel-and-PowerQuery/blob/08b6c40fb72100891586eae5838cac133181d661/CDR%20job%20query%20(1).mp4) |
+| 🖼️ **Screenshot** | Preview of the Excel dashboard/report | [Project Screenshot](https://github.com/Jawebdata/CDR-Data-Analysis-Using-Excel-and-PowerQuery/blob/08b6c40fb72100891586eae5838cac133181d661/Screenshot%202025-10-08%20170527.png) |
+| 📊 **Excel Project File** | Complete dataset + cleaned report + Power Query steps | [CDR Excel File](https://github.com/Jawebdata/CDR-Data-Analysis-Using-Excel-and-PowerQuery/blob/08b6c40fb72100891586eae5838cac133181d661/cdr%20job.xlsx) |
 
-Microsoft Excel
+---
 
-Power Query (ETL process)
+### 🧩 Files Included  
 
-Data Cleaning & Transformation
+| File Name | Description |
+|------------|-------------|
+| `cdr job.xlsx` | Dummy CDR dataset with Power Query transformations |
+| `CDR job query (1).mp4` | Project demo video |
+| `Screenshot 2025-10-08 170527.png` | Project report preview |
 
-Analytical Thinking
+---
 
-📊 Key Insights
+### 🎯 Outcome  
+Turned **raw, messy call data** into a clean, insightful dataset — just like analysts do in real investigation cases.  
+This project highlights how **Excel and Power Query** can be used for real-world data cleaning, ETL, and analysis.  
 
-✅ Identified the top communicators
-✅ Mapped call connections by location
-✅ Simplified large messy data into a clear report
+---
 
-🎥 Demo Video
+### 🧑‍💻 Author  
+**Javed Hussain**  
+📍  Data Analyst | Excel | Power Query | SQL | Power BI | Python  
+🔗 [LinkedIn Profile](www.linkedin.com/in/ijavedhussain)
+Email-- hussainjaved001100@gmail.com
 
-👉 Watch full project video on LinkedIn:
 
+---
 
+### 🏷️ Tags  
+`#DataAnalytics` `#Excel` `#PowerQuery` `#ETL` `#DataCleaning` `#RealWorldProject` `#Portfolio` `#DataTransformation` `#Analytics` `#MicrosoftExcel`
 
-🧩 Files Included
-File Name	Description
-CDR_Dummy_Data.xlsx	Sample CDR dataset (dummy for privacy)
-CDR_Insights_Report.xlsx	Cleaned & analyzed report
-PowerQuery_Steps.txt	Transformation & cleaning steps
-Project_Screenshot.png	Visual preview of the report
-🧑‍💻 Author
+---
 
-Javed Hussain
-www.linkedin.com/in/ijavedhussain
-hussainjaved001100@gmail.com
